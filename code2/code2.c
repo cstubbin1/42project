@@ -12,7 +12,6 @@
 
 #include <stdio.h>
 
-//prints the first 5 letters
 void code2(void)
 {
     int i;
