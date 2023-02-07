@@ -12,6 +12,7 @@
 
 #include <stdio.h>
 
+//prints some more characters
 void code3(void)
 {
     int i;
